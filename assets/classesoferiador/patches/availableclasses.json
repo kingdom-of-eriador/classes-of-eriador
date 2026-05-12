@@ -209,5 +209,86 @@
 			"healer-priest"
 		],
 		"file": "skeletons:config/customplayermodels/skeleton.json"
+	},
+	{
+		"dependsOn": [
+			{
+				"modid": "racialequalityexpanded"
+			}
+		],
+		"op": "add",
+		"path": "/amphitari/AvailableClasses",
+		"value": [
+			"commoner",
+			"tailor",
+			"fighter-knight",
+			"fighter-berserker",
+			"fighter-striker",
+			"fighter-looter",
+			"fighter-ranger",
+			"fighter-survivalist",
+			"oregatherer-miner",
+			"oregatherer-scrounger",
+			"groundskeeper-gatherer",
+			"grovetender-orchardkeeper",
+			"farmer-allotmentgardener",
+			"rancher",
+			"healer-druid"
+		],
+		"file": "racialequalityexpanded:config/customplayermodels/amphitari-char.json"
+	},
+	{
+		"dependsOn": [
+			{
+				"modid": "racialequalityexpanded"
+			}
+		],
+		"op": "add",
+		"path": "/gnome/AvailableClasses",
+		"value": [
+			"commoner",
+			"tailor",
+			"fighter-knight",
+			"fighter-berserker",
+			"fighter-striker",
+			"fighter-looter",
+			"fighter-ranger",
+			"fighter-survivalist",
+			"oregatherer-miner",
+			"oregatherer-scrounger",
+			"groundskeeper-hunter",
+			"grovetender-lumberer",
+			"farmer-allotmentgardener",
+			"rancher",
+			"healer-priest"
+		],
+		"file": "racialequalityexpanded:config/customplayermodels/gnome-char.json"
+	},
+	{
+		"dependsOn": [
+			{
+				"modid": "racialequalityexpanded"
+			}
+		],
+		"op": "add",
+		"path": "/hobbit/AvailableClasses",
+		"value": [
+			"commoner",
+			"tailor",
+			"fighter-knight",
+			"fighter-berserker",
+			"fighter-striker",
+			"fighter-looter",
+			"fighter-ranger",
+			"fighter-survivalist",
+			"oregatherer-miner",
+			"oregatherer-scrounger",
+			"groundskeeper-hunter",
+			"grovetender-lumberer",
+			"farmer-brewerygardener",
+			"rancher",
+			"healer-priest"
+		],
+		"file": "racialequalityexpanded:config/customplayermodels/hobbit-char.json"
 	}
 ]
