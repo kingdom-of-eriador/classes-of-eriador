@@ -1,0 +1,471 @@
+{
+  "game:characterclass-fighter-knight": "Fighter: Knight",
+  "game:characterdesc-fighter-knight": "A bulwark between the people and the dangers of the land. Knights stand steadfast and serve as the core of the fighting force with organization and honor.",
+
+  "game:characterclass-fighter-berserker": "Fighter: Berserker",
+  "game:characterdesc-fighter-berserker": "A single-minded fighter interested only in striking down their opponents. Berserkers often eschew armor as it only slows them down and delays their bloodshed.",
+
+  "game:characterclass-fighter-striker": "Fighter: Striker",
+  "game:characterdesc-fighter-striker": "Masters of skirmish, weaving between melee and ranged tactics as it best suits the war at hand.",
+
+  "game:characterclass-fighter-looter": "Fighter: Looter",
+  "game:characterdesc-fighter-looter": "Opportunists, skulkers, and dungeon delvers. They are as familiar with stabbing a back as they are clubbing a clockwork demon. They are most at home in the depths of the earth or the hazy aftermath of a battle, rifling through the remains for treasures.",
+
+  "game:characterclass-fighter-ranger": "Fighter: Ranger",
+  "game:characterdesc-fighter-ranger": "Snipers, specialists, a more honed weapon of war more suited for guerilla tactics over direct confrontation. Their mobility is as unrivaled as their capability with a bow.",
+
+  "game:characterclass-fighter-survivalist": "Fighter: Survivalist",
+  "game:characterdesc-fighter-survivalist": "The eyes and ears of any good army. They are more than capable of surviving in the wild for extended periods of reconaissance and remaining self sufficient indefinitely in times of peace.",
+
+
+  "game:characterclass-oregatherer-miner": "Ore Gatherer: Miner",
+  "game:characterdesc-oregatherer-miner": "There are those who brave the shadows of the underworld to reap the much needed metallic resources for civilization, their pickaxes beating like the heart of the Earth herself. These bold miners are no strangers to wearing a little protection to keep themselves protected while they extract every scrap of value they can.",
+
+  "game:characterclass-oregatherer-scrounger": "Ore Gatherer: Scrounger",
+  "game:characterdesc-oregatherer-scrounger": "Not all aprove of the wholesale extraction of the minerals from the earth and instead seek to take only what is given freely from the surface and the streams. These little magpies follow their eyes while panning and grazing along the river's edge.",
+
+
+  "game:characterclass-groundskeeper-hunter": "Groundskeeper: Hunter",
+  "game:characterdesc-groundskeeper-hunter": "Responsible for keeping predators at bay as much as they are for keeping the larders stocked with fresh meat. These wily folks are known to bear both bow, spear, and wisdom upon the beasts of the wild.",
+
+  "game:characterclass-groundskeeper-gatherer": "Groundskeeper: Gatherer",
+  "game:characterdesc-groundskeeper-gatherer": "Furtive gatherers who seek to make peace with the animals of the woods and act only in self defense. They make up for this by providing a bounty of wild crops and the much-needed seeds to help expand the farmers' plots.",
+
+  "game:characterclass-grovetender-lumberer": "Grovetender: Lumberer",
+  "game:characterdesc-grovetender-lumberer": "The grovetender's value is often hard to be seen as their practice takes time but with enough patience, these helpful members can keep the community well supplied with decorative hardwoods, fruit for pies, and ferments. Lumberers increases their effectiveness with lumber-producing trees.",
+
+  "game:characterclass-grovetender-orchardkeeper": "Grovetender: Orchard Keeper",
+  "game:characterdesc-grovetender-orchardkeeper": "The grovetender's value is often hard to be seen as their practice takes time but with enough patience, these helpful members can keep the community well supplied with decorative hardwoods, fruit for pies, and ferments. Orchard Keeper sublcass increases their effectiveness with fruit trees.",
+
+
+  "game:characterclass-farmer-allotmentgardener": "Farmer: Allotment Gardener",
+  "game:characterdesc-farmer-allotmentgardener": "Nothing fancy but an absolute essential for any community. These salt of the earth farmers will keep the community and the animals well fed with veggies and grains. Allotment Gardeners increases their effectiveness with vegetables.",
+
+  "game:characterclass-farmer-brewerygardener": "Farmer: Brewery Gardener",
+  "game:characterdesc-farmer-brewerygardener": "Nothing fancy but an absolute essential for any community. These salt of the earth farmers will keep the community and the animals well fed with veggies and grains. Brewery Gardeners increases their effectiveness with grains.",
+
+  "game:characterclass-rancher": "Rancher",
+  "game:characterdesc-rancher": "Yeehaw! We don't need no grains 'round here. With a rancher in your community, you will be well supplied with good ol'-fashioned protein as they excel at making the most of every animal they harvest.",
+
+
+  "game:characterclass-healer-druid": "Healer: Druid",
+  "game:characterdesc-healer-druid": "These healers are one with the woods. Sure of stride, their hands gentle, and their love for the wild lands unrivaled. They believe in the chaotic joy that is the wildnerness and those who dwell in harmony with it.",
+
+  "game:characterclass-healer-priest": "Healer: Priest",
+  "game:characterdesc-healer-priest": "Clerics of grand organizations and knightly orders. Battle-hardened veterans who have been trained in the effecient use of armor to protect themselves whilst maintaining the fighters they stand shoulder to shoulder with.",
+
+  "game:characterclass-healer-shaman": "Healer: Shaman",
+  "game:characterdesc-healer-shaman": "Love for their tribe guides their wisdom. Often seen as leaders of warbands and respected not for their strength of arm but their knowledge of the ways of peace as well as war. A battle fought with words is always won, a battle not needed is always lost.",
+
+  "game:trait-bittermedicine": "<font color=\"#84ff84\">• Bitter Medicine </font>",
+  "game:traitname-bittermedicine": "Bitter Medicine",
+  "game:traitdesc-bittermedicine": "Ability to craft <a href=\"handbooksearch://poultice \">poultices</a> cheaper with focuses",
+
+  "game:trait-bonecrafting": "<font color=\"#84ff84\">• Bone Crafting </font>",
+  "game:traitname-bonecrafting": "Bone Crafting",
+  "game:traitdesc-bonecrafting": "Exclusive craftable <a href=\"handbooksearch://boneclub \">bone club</a>, <a href=\"handbooksearch://bonefalx \">bone falx</a>, <a href=\"handbooksearch://bonestaff \">bone staff</a>, <a href=\"handbooksearch://bonebody \">bone body armor</a>, <a href=\"handbooksearch://bonehelmet \">bone helmet</a>, <a href=\"handbooksearch://bone legs \">bone legs</a>",
+  
+  "game:trait-butcher": "<font color=\"#84ff84\">• Butcher </font>",
+  "game:traitname-butcher": "Butcher",
+  "game:traitdesc-butcher": "10% faster animal harvesting",
+
+  "game:trait-camouflage": "<font color=\"#84ff84\">• Camouflage </font>",
+  "game:traitname-camouflage": "Camouflage",
+  "game:traitdesc-camouflage": "Exclusive craftable <a href=\"handbooksearch://branchy leaves \">branchy leaves</a>",
+  
+  "game:trait-clearcutter": "<font color=\"#84ff84\">• Clear Cutter </font>",
+  "game:traitname-clearcutter": "Clear Cutter",
+  "game:traitdesc-clearcutter": "+10% attack speed with axes",
+
+  "game:trait-deathcrafting": "<font color=\"#84ff84\">• Death Crafting </font>",
+  "game:traitname-deathcrafting": "Death Crafting",
+  "game:traitdesc-deathcrafting": "Exclusive craftable <a href=\"handbooksearch://cobble skull \">cobble skull blocks</a>",
+
+  "game:trait-durable": "<font color=\"#84ff84\">• Durable </font>",
+  "game:traitname-durable": "Durable",
+  "game:traitdesc-durable": "+5 health points",
+
+  "game:trait-elvenfletching": "<font color=\"#84ff84\">• Elven Fletching </font>",
+  "game:traitname-elvenfletching": "Elven Fletching",
+  "game:traitdesc-elvenfletching": "Ability to craft arrows cheaper",
+
+  "game:trait-elvenpresence": "<font color=\"#84ff84\">• Elven Presence </font>",
+  "game:traitname-elvenpresence": "Elven Presence",
+  "game:traitdesc-elvenpresence": "-25% animal detection range",
+
+  "game:trait-expansionist": "<font color=\"#84ff84\">• Expansionist </font>",
+  "game:traitname-expansionist": "Expansionist",
+  "game:traitdesc-expansionist": "Ability to craft path blocks cheaper",
+
+  "game:trait-fleshless": "<font color=\"#84ff84\">• Fleshless </font>",
+  "game:traitname-fleshless": "Fleshless",
+  "game:traitdesc-fleshless": "20 additional warmth bonus",
+
+  "game:trait-foundercrops": "<font color=\"#84ff84\">• Founder Crops </font>",
+  "game:traitname-foundercrops": "Founder Crops",
+  "game:traitdesc-foundercrops": "+10% drops from most crops",
+
+  "game:trait-funguy": "<font color=\"#84ff84\">• Fun-guy </font>",
+  "game:traitname-funguy": "Fun-guy",
+  "game:traitdesc-funguy": "+5% foraging drop rate, +10% wild crop harvest rate",
+
+  "game:trait-gravedigger": "<font color=\"#84ff84\">• Gravedigger </font>",
+  "game:traitname-gravedigger": "Gravedigger",
+  "game:traitdesc-gravedigger": "+10% mining speed",
+
+  "game:trait-mountainwisdom": "<font color=\"#84ff84\">• Mountain Wisdom </font>",
+  "game:traitname-mountainwisdom": "Mountain Wisdom",
+  "game:traitdesc-mountainwisdom": "+10% ore from mining",
+
+  "game:trait-plantbaseddiet": "<font color=\"#84ff84\">• Plant-based Diet </font>",
+  "game:traitname-plantbaseddiet": "Plant-based Diet",
+  "game:traitdesc-plantbaseddiet": "+15% wild crop harvest rate",
+
+  "game:trait-druidcrafting": "<font color=\"#84ff84\">• Druid Crafting </font>",
+  "game:traitname-druidcrafting": "Druid Crafting",
+  "game:traitdesc-druidcrafting": "Exclusive craftable <a href=\"handbooksearch://druid focus \">druid focus</a>",
+
+  "game:trait-priestcrafting": "<font color=\"#84ff84\">• Pious Crafting </font>",
+  "game:traitname-priestcrafting": "Pious Crafting",
+  "game:traitdesc-priestcrafting": "Exclusive craftable <a href=\"handbooksearch://priest focus \">priest focus</a>",
+
+  "game:trait-shamancrafting": "<font color=\"#84ff84\">• Leader's Wisdom </font>",
+  "game:traitname-shamancrafting": "Leader's Wisdom",
+  "game:traitdesc-shamancrafting": "Exclusive craftable <a href=\"handbooksearch://shaman focus \">shaman focus</a>",
+
+  
+  "game:trait-reptilian": "<font color=\"#84ff84\">• Reptilian </font>",
+  "game:traitname-reptilian": "Reptilian",
+  "game:traitdesc-reptilian": "+25% jump height, -10% hunger rate",
+
+  "game:trait-shrewdsmith": "<font color=\"#84ff84\">• Shrewd Smith </font>",
+  "game:traitname-shrewdsmith": "Shrewd Smith",
+  "game:traitdesc-shrewdsmith": "Ability to craft cheaper chainmail armor",
+  
+  "game:trait-tunnelrunner": "<font color=\"#84ff84\">• Tunnel Runner </font>",
+  "game:traitname-tunnelrunner": "Tunnel Runner",
+  "game:traitdesc-tunnelrunner": "+10% mining speed",
+
+
+  "game:trait-expertaxe": "<font color=\"#84ff84\">• Axe Expert </font>",
+  "game:traitname-expertaxe": "Axe Expert",
+  
+  "game:trait-expertsword": "<font color=\"#84ff84\">• One-handed Sword Expert </font>",
+  "game:traitname-expertsword": "One-handed Sword Expert",
+  
+  
+  "game:trait-allotmentgardener": "<font color=\"#84ff84\">• Allotment Gardener </font>",
+  "game:traitname-allotmentgardener": "Allotment Gardener",
+
+  "game:trait-anatomy": "<font color=\"#84ff84\">• Anatomy </font>",
+  "game:traitname-anatomy": "Anatomy",
+  
+  "game:trait-archer": "<font color=\"#84ff84\">• Archer </font>",
+  "game:traitname-archer": "Archer",
+  
+  "game:trait-armyofone": "<font color=\"#84ff84\">• Army of One </font>",
+  "game:traitname-armyofone": "Army of One",
+  
+  "game:trait-bigbritches": "<font color=\"#84ff84\">• Big Britches </font>",
+  "game:traitname-bigbritches": "Big Britches",
+
+  "game:trait-beastfriend": "<font color=\"#84ff84\">• Beast Friend </font>",
+  "game:traitname-beastfriend": "Beast Friend",
+
+  "game:trait-brewerygardener": "<font color=\"#84ff84\">• Brewery Gardener </font>",
+  "game:traitname-brewerygardener": "Brewery Gardener",
+  
+  "game:trait-brutalexecution": "<font color=\"#84ff84\">• Brutal Execution </font>",
+  "game:traitname-brutalexecution": "Brutal Execution",
+  
+  "game:trait-bountifulorchards": "<font color=\"#84ff84\">• Bountiful Orchards </font>",
+  "game:traitname-bountifulorchards": "Bountiful Orchards",
+  
+  "game:trait-carnivorous": "<font color=\"#84ff84\">• Carnivorous </font>",
+  "game:traitname-carnivorous": "Carnivorous",
+  
+  "game:trait-desperatestruggle": "<font color=\"#84ff84\">• Desperate Struggle </font>",
+  "game:traitname-desperatestruggle": "Desperate Struggle",
+
+  "game:trait-experiencedgrazer": "<font color=\"#84ff84\">• Experienced Grazer </font>",
+  "game:traitname-experiencedgrazer": "Experienced Grazer",
+
+  "game:trait-fieldsnacks": "<font color=\"#84ff84\">• Field Snacks </font>",
+  "game:traitname-fieldsnacks": "Field Snacks",
+  
+  "game:trait-fencejumper": "<font color=\"#84ff84\">• Fence Jumper </font>",
+  "game:traitname-fencejumper": "Fence Jumper",
+
+  "game:trait-foragingmaster": "<font color=\"#84ff84\">• Foraging Master </font>",
+  "game:traitname-foragingmaster": "Foraging Master",
+
+  "game:trait-grazer": "<font color=\"#84ff84\">• Grazer </font>",
+  "game:traitname-grazer": "Grazer",
+  
+  "game:trait-greenthumbs": "<font color=\"#84ff84\">• Green Thumbs </font>",
+  "game:traitname-greenthumbs": "Green Thumbs",
+
+  "game:trait-healingtouch": "<font color=\"#84ff84\">• Healing Touch </font>",
+  "game:traitname-healingtouch": "Healing Touch",
+
+  "game:trait-heedless": "<font color=\"#fff848\">• Heedless </font>",
+  "game:traitname-heedless": "Heedless",
+  
+  "game:trait-huntergatherer": "<font color=\"#84ff84\">• Hunter Gatherer </font>",
+  "game:traitname-huntergatherer": "Hunter Gatherer",
+
+  "game:trait-ineptforager": "<font color=\"#ff8484\">• ineptforager </font>",
+  "game:traitname-ineptforager": "ineptforager",
+
+  "game:trait-masterofbattle": "<font color=\"#84ff84\">• Master of Battle </font>",
+  "game:traitname-masterofbattle": "Master of Battle",
+
+  "game:trait-mediumarmoruser": "<font color=\"#ff8484\">• Medium Armor User </font>",
+  "game:traitname-mediumarmoruser": "Medium Armor User",
+
+  "game:trait-laborer": "<font color=\"#84ff84\">• Laborer </font>",
+  "game:traitname-laborer": "Laborer",
+  
+  "game:trait-lifeofcomfort": "<font color=\"#ff8484\">• Life of Comfort </font>",
+  "game:traitname-lifeofcomfort": "Life of Comfort",
+
+  "game:trait-lightlyarmed": "<font color=\"#ff8484\">• Lightly Armed </font>",
+  "game:traitname-lightlyarmed": "Lightly Armed",
+  
+  "game:trait-lumbermill": "<font color=\"#84ff84\">• Lumbermill </font>",
+  "game:traitname-lumbermill": "Lumbermill",
+  
+  "game:trait-magpie": "<font color=\"#84ff84\">• Magpie </font>",
+  "game:traitname-magpie": "Magpie",
+
+  "game:trait-missionoriented": "<font color=\"#ff8484\">• Mission Oriented </font>",
+  "game:traitname-missionoriented": "Mission Oriented",
+  
+  "game:trait-omnivore": "<font color=\"#84ff84\">• Omnivore </font>",
+  "game:traitname-omnivore": "Omnivore",
+
+  "game:trait-sculduggerous": "<font color=\"#84ff84\">• Sculduggerous </font>",
+  "game:traitname-sculduggerous": "Sculduggerous",
+  
+  "game:trait-selfdefence": "<font color=\"#84ff84\">• Self Defence </font>",
+  "game:traitname-selfdefence": "Self Defence",
+
+  "game:trait-slowminer": "<font color=\"#ff8484\">• Slow Miner </font>",
+  "game:traitname-slowminer": "Slow Miner",
+  
+  "game:trait-sniper": "<font color=\"#84ff84\">• Sniper </font>",
+  "game:traitname-sniper": "Sniper",
+  
+  "game:trait-switchhitter": "<font color=\"#84ff84\">• Switch Hitter </font>",
+  "game:traitname-switchhitter": "Switch Hitter",
+  
+  "game:trait-strongarm": "<font color=\"#84ff84\">• Strong Arm </font>",
+  "game:traitname-strongarm": "Strong Arm",
+  
+  "game:trait-squeamish": "<font color=\"#ff8484\">• Squeamish </font>",
+  "game:traitname-squeamish": "Squeamish",
+
+  "game:trait-torchbearer": "<font color=\"#84ff84\">• Torchbearer </font>",
+  "game:traitname-torchbearer": "Torchbearer",
+  
+  "game:trait-treefriend": "<font color=\"#84ff84\">• Tree Friend </font>",
+  "game:traitname-treefriend": "Tree Friend",
+
+  "game:trait-tunnelwisdom": "<font color=\"#84ff84\">• Tunnel Wisdom </font>",
+  "game:traitname-tunnelwisdom": "Tunnel Wisdom",
+  
+  "game:trait-varmintpatrol": "<font color=\"#84ff84\">• Varmint Patrol </font>",
+  "game:traitname-varmintpatrol": "Varmint Patrol",
+
+  "game:trait-wildculling": "<font color=\"#84ff84\">• Wild Culling </font>",
+  "game:traitname-wildculling": "Wild Culling",
+
+  "game:trait-workaholic": "<font color=\"#84ff84\">• Workaholic </font>",
+  "game:traitname-workaholic": "Workaholic",
+  
+  "game:trait-wilder": "<font color=\"#ff8484\">• Wilder </font>",
+  "game:traitname-wilder": "Wilder",
+
+  "game:trait-wingfoot": "<font color=\"#fff848\">• Wingfoot </font>",
+  "game:traitname-wingfoot": "Wingfoot",
+
+
+  "game:charattribute-armorDurabilityLoss--0.1": "+10% armor durability",
+
+  "game:charattribute-armorWalkSpeedAffectedness--0.5": "walk speed penalty for wearing armor decreased by 50%",
+  "game:charattribute-armorWalkSpeedAffectedness--0.35": "walk speed penalty for wearing armor decreased by 35%",
+  "game:charattribute-armorWalkSpeedAffectedness-1": "walk speed penalty for wearing armor increased by 100%",
+  "game:charattribute-armorWalkSpeedAffectedness-2": "walk speed penalty for wearing armor increased by 200%",
+
+  "game:charattribute-axesProficiency-0.1": "+10% attack speed with axes",
+  "game:charattribute-axesProficiency-0.2": "+20% attack speed with axes",
+
+  "game:charattribute-bowsProficiency-0.33": "+33% draw speed with bows",
+
+  "game:charattribute-clubsProficiency-0.1": "+10% attack speed with clubs",
+  "game:charattribute-clubsProficiency-0.2": "+20% attack speed with clubs",
+
+  "game:charattribute-animalSeekingRange--0.25": "-25% animal detection range",
+
+  "game:charattribute-halberdsProficiency--0.3": "-30% attack speed with halberds",
+  "game:charattribute-halberdsProficiency-0.2": "+20% attack speed with halberds",
+
+  "game:charattribute-hungerrate--0.1": "-10% hunger rate",
+  "game:charattribute-hungerrate--0.2": "-20% hunger rate",
+  "game:charattribute-hungerrate-0.15": "+15% hunger rate",
+  
+  "game:charattribute-jumpHeightMul-0.25": "+25% jump height",
+  "game:charattribute-jumpHeightMul-0.5": "+50% jump height",
+
+  "game:charattribute-macesProficiency-0.1": "+10% attack speed with maces",
+  "game:charattribute-macesProficiency-0.2": "+20% attack speed with maces",
+
+  "game:charattribute-maxhealthExtraPoints-3": "+3 health points",
+  "game:charattribute-maxhealthExtraPoints-5": "+5 health points",
+  "game:charattribute-maxhealthExtraPoints-8": "+8 health points",
+
+  "game:charattribute-meleeWeaponsDamage--0.2": "-20% melee weapons damage",
+  "game:charattribute-meleeWeaponsDamage-0.15": "+15% melee wapons damage",
+  "game:charattribute-meleeWeaponsDamage-0.2": "+20% melee wapons damage",
+  "game:charattribute-meleeWeaponsDamage-0.3": "+30% melee wapons damage",
+
+  "game:charattribute-miningSpeedMul-0.1": "+10% mining speed",
+  "game:charattribute-miningSpeedMul-0.3": "+30% mining speed",
+
+  "game:charattribute-oneHandedSwordsProficiency-0.1": "+10% attack speed with one-handed swords",
+  "game:charattribute-oneHandedSwordsProficiency-0.2": "+20% attack speed with one-handed swords",
+
+  "game:charattribute-oreLootDropMul-0.1": "+10% ore from mining",
+  "game:charattribute-oreLootDropMul-0.15": "+15% ore from mining",
+
+  "game:charattribute-quarterstaffProficiency--0.3": "-30% attack speed with quarterstaffs",
+  "game:charattribute-quarterstaffProficiency-0.2": "+20% attack speed with quarterstaffs",
+
+  "game:charattribute-twoHandedSwordsProficiency--0.3": "-30% attack speed with two-handed swords",
+  "game:charattribute-twoHandedSwordsProficiency-0.2": "+20% attack speed with two-handed swords",
+
+  "game:charattribute-rangedWeaponsDamage--0.2": "-20% ranged weapons damage",
+  "game:charattribute-rangedWeaponsDamage-0.15": "+15% ranged weapons damage",
+  "game:charattribute-rangedWeaponsDamage-0.3": "+30% ranged weapons damage",
+  "game:charattribute-rangedWeaponsDamage-0.4": "+40% ranged weapons damage",
+
+  "game:charattribute-spearsProficiency--0.3": "-30% attack speed with spears",
+  "game:charattribute-spearsProficiency-0.15": "+15% attack speed with spears",
+  "game:charattribute-spearsProficiency-0.2": "+20% attack speed with spears",
+
+
+  "game:charattribute-healingeffectivness-0.1": "+10% healing effectiveness",
+  "game:charattribute-healingeffectivness-0.3": "+30% healing effectiveness",
+
+
+  "game:charattribute-metalsPanningDropRate-0.1": "+10% metals drop rate when panning",
+  "game:charattribute-metalsPanningDropRate-0.15": "+15% metals drop rate when panning",
+  "game:charattribute-metalsPanningDropRate-0.25": "+25% metals drop rate when panning",
+  "game:charattribute-manmadePanningDropRate-0.2": "+20% remains drop rate when panning",
+  "game:charattribute-manmadePanningDropRate-0.25": "+25% remains drop rate when panning",
+  "game:charattribute-goldPanningDropRate-0.2": "+20% gold drop rate when panning",
+  "game:charattribute-gemPanningDropRate-0.2": "+20% gemstone drop rate when panning",
+  "game:charattribute-gemPanningDropRate-0.25": "+25% gemstone drop rate when panning",
+
+  "game:charattribute-vesselContentsDropRate--0.25": "-25% loot from cracked vessels",
+
+  "game:charattribute-walkspeed-0.05": "+5% walk speed",
+  "game:charattribute-walkspeed-0.1": "+10% walk speed",
+
+  "game:charattribute-warmthBonus-20": "20 additional warmth bonus",
+
+  "game:charattribute-animalHarvestingTime--0.1": "10% faster animal harvesting",
+
+  "game:charattribute-animalLootDropRate-0.05": "+5% loot from animal harvesting",
+  "game:charattribute-animalLootDropRate-0.1": "+10% loot from animal harvesting",
+  "game:charattribute-animalLootDropRate-0.2": "+20% loot from animal harvesting",
+
+  "game:charattribute-forageDropRate--0.15": "-15% loot from foraging",
+  "game:charattribute-forageDropRate-0.05": "+5% loot from foraging",
+  "game:charattribute-forageDropRate-0.1": "+10% loot from foraging",
+  "game:charattribute-forageDropRate-0.15": "+15% loot from foraging",
+
+  "game:charattribute-amaranthDropRate--0.25": "-25% drops from amaranths",
+  "game:charattribute-amaranthDropRate-0.1": "+10% drops from amaranths",
+  "game:charattribute-amaranthDropRate-0.2": "+20% drops from amaranths",
+
+  "game:charattribute-cabbageDropRate--0.25": "-25% drops from cabbages",
+  "game:charattribute-cabbageDropRate-0.1": "+10% drops from cabbages",
+  "game:charattribute-cabbageDropRate-0.2": "+20% drops from cabbages",
+
+  "game:charattribute-carrotDropRate--0.25": "-25% drops from carrots",
+  "game:charattribute-carrotDropRate-0.1": "+10% drops from carrots",
+  "game:charattribute-carrotDropRate-0.2": "+20% drops from carrots",
+
+  "game:charattribute-cassavaDropRate--0.25": "-25% drops from cassavas",
+  "game:charattribute-cassavaDropRate-0.1": "+10% drops from cassavas",
+  "game:charattribute-cassavaDropRate-0.2": "+20% drops from cassavas",
+
+  "game:charattribute-flaxgrainDropRate--0.25": "-25% grain drops from flax",
+  "game:charattribute-flaxgrainDropRate-0.2": "+20% grain drops from flax",
+ 
+  "game:charattribute-flaxseedDropRate--0.25": "-25% seeds from flax",
+  "game:charattribute-flaxseedDropRate-0.2": "+20% seeds from flax",
+
+  "game:charattribute-flaxfibreDropRate--0.25": "-25% fibres from flax",
+  "game:charattribute-flaxfibreDropRate-0.2": "+20% fibres from flax",
+
+  "game:charattribute-onionDropRate--0.25": "-25% drops from onions",
+  "game:charattribute-onionDropRate-0.1": "+10% drops from onions",
+  "game:charattribute-onionDropRate-0.2": "+20% drops from onions",
+
+  "game:charattribute-parsnipDropRate--0.25": "-25% drops from parsnips",
+  "game:charattribute-parsnipDropRate-0.1": "+10% drops from parsnips",
+  "game:charattribute-parsnipDropRate-0.2": "+20% drops from parsnips",
+
+  "game:charattribute-peanutDropRate--0.25": "-25% drops from peanuts",
+  "game:charattribute-peanutDropRate-0.1": "+10% drops from peanuts",
+  "game:charattribute-peanutDropRate-0.2": "+20% drops from peanuts",
+
+  "game:charattribute-pineappleDropRate--0.25": "-25% drops from pineapples",
+  "game:charattribute-pineappleDropRate-0.1": "+10% drops from pineapples",
+  "game:charattribute-pineappleDropRate-0.2": "+20% drops from pineapples",
+
+  "game:charattribute-riceDropRate--0.25": "-25% drops from rice",
+  "game:charattribute-riceDropRate-0.1": "+10% drops from rice",
+  "game:charattribute-riceDropRate-0.2": "+20% drops from rice",
+
+  "game:charattribute-ryeDropRate--0.25": "-25% drops from rye",
+  "game:charattribute-ryeDropRate-0.1": "+10% drops from rye",
+  "game:charattribute-ryeDropRate-0.2": "+20% drops from rye",
+
+  "game:charattribute-soybeanDropRate--0.25": "-25% drops from soybeans",
+  "game:charattribute-soybeanDropRate-0.1": "+10% drops from soybeans",
+  "game:charattribute-soybeanDropRate-0.2": "+20% drops from soybeans",
+
+  "game:charattribute-speltDropRate--0.25": "-25% drops from spelt",
+  "game:charattribute-speltDropRate-0.1": "+10% drops from spelt",
+  "game:charattribute-speltDropRate-0.2": "+20% drops from spelt",
+
+  "game:charattribute-sunflowerDropRate--0.25": "-25% drops from sunflowers",
+  "game:charattribute-sunflowerDropRate-0.1": "+10% drops from sunflowers",
+  "game:charattribute-sunflowerDropRate-0.2": "+20% drops from sunflowers",
+
+  "game:charattribute-turnipDropRate--0.25": "-25% drops from turnips",
+  "game:charattribute-turnipDropRate-0.1": "+10% drops from turnips",
+  "game:charattribute-turnipDropRate-0.2": "+20% drops from turnips",
+
+  "game:charattribute-wildCropDropRate--0.2": "-20% wild crop harvesting",
+  "game:charattribute-wildCropDropRate-0.1": "+10% wild crop harvesting",
+  "game:charattribute-wildCropDropRate-0.15": "+15% wild crop harvesting",
+  "game:charattribute-wildCropDropRate-0.2": "+20% wild crop harvesting",
+  "game:charattribute-wildCropDropRate-0.25": "+25% wild crop harvesting",
+  "game:charattribute-wildCropDropRate-0.5": "+50% wild crop harvesting",
+
+
+  "game:charattribute-maxsaturation-1600": "Max saturation raised to 1600",
+  "game:charattribute-logDropRate-0.1": "+10% log drop rate",
+  "game:charattribute-cuttingDropRate-0.2": "+20% cutting drop rate",
+  "game:charattribute-saplingDropRate-1": "Doubled droprate for tree seeds",
+  "game:charattribute-stickDropRate-0.5": "50% chance to gain double sticks from leaves",
+  "game:charattribute--0.2": "20% drops from",
+
+
+  "game:charattribute-fruittreeDropRate-1": "Double cutting drops from fruit trees",
+  "game:charattribute-treeseedDropRate-2": "Double seed drops from trees",
+}

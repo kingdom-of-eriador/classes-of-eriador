@@ -1,0 +1,11 @@
+{
+	"type": "content",
+	"modid": "classesoferiador",
+	"name": "Classes of Eriador",
+	"authors": [
+		"Elirea",
+		"Gribbles"
+	],
+	"description": " A collection of custom classes for the Kingdom of Eriador Vintagestory server.",
+	"version": "1.0.0"
+}

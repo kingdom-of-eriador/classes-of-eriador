@@ -1,0 +1,120 @@
+[
+  {
+    "dependsOn": [
+      {
+        "modid": "racialequality"
+      }
+    ],
+    "op": "add",
+    "path": "/seraph/ExtraTraits",
+    "value": [
+      "expansionist"
+    ],
+    "file": "playermodellib:config/default-model-config.json"
+  },
+  {
+    "dependsOn": [
+      {
+        "modid": "racialequality"
+      }
+    ],
+    "op": "add",
+    "path": "/human/ExtraTraits",
+    "value": [
+      "clearcutter",
+      "expansionist",
+      "foundercrops"
+    ],
+    "file": "racialequality:config/customplayermodels/human-char.json"
+  },
+  {
+    "dependsOn": [
+      {
+        "modid": "racialequality"
+      }
+    ],
+    "op": "add",
+    "path": "/dwarf/ExtraTraits",
+    "value": [
+      "shrewdsmith",
+      "mountainwisdom",
+      "tunnelrunner"
+    ],
+    "file": "racialequality:config/customplayermodels/dwarf-char.json"
+  },
+  {
+    "dependsOn": [
+      {
+        "modid": "racialequality"
+      }
+    ],
+    "op": "add",
+    "path": "/elf/ExtraTraits",
+    "value": [
+      "elvenfletching",
+      "elvenpresence",
+      "plantbaseddiet"
+    ],
+    "file": "racialequality:config/customplayermodels/elf-char.json"
+  },
+  {
+    "dependsOn": [
+      {
+        "modid": "racialequality"
+      }
+    ],
+    "op": "add",
+    "path": "/ork/ExtraTraits",
+    "value": [
+      "bonecrafting",
+      "butcher",
+      "durable"
+    ],
+    "file": "racialequality:config/customplayermodels/ork-char.json"
+  },
+  {
+    "dependsOn": [
+      {
+        "modid": "racialequality"
+      }
+    ],
+    "op": "add",
+    "path": "/goblin/ExtraTraits",
+    "value": [
+      "bonecrafting",
+      "tunnelrunner",
+      "precise"
+    ],
+    "file": "racialequality:config/customplayermodels/goblin-char.json"
+  },
+  {
+    "dependsOn": [
+      {
+        "modid": "koboldrdx"
+      }
+    ],
+    "op": "addmerge",
+    "path": "/kobold/ExtraTraits",
+    "value": [
+      "bonecrafting",
+      "funguy",
+      "reptilian"
+    ],
+    "file": "koboldrdx:config/customplayermodels/kobold.json"
+  },
+  {
+    "dependsOn": [
+      {
+        "modid": "skeletonsoferiador"
+      }
+    ],
+    "op": "replace",
+    "path": "/skeleton/ExtraTraits",
+    "value": [
+      "fleshless",
+      "deathcrafting",
+      "gravedigger"
+    ],
+    "file": "skeletons:config/customplayermodels/skeleton.json"
+  }
+]

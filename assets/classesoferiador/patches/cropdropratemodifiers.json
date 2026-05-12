@@ -1,0 +1,158 @@
+[
+  {
+    "op": "add",
+    "path": "/dropsByType/*-8/1/dropModbyStat",
+    "value": "amaranthDropRate",
+    "file": "game:blocktypes/plant/crop/amaranth.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-9/1/dropModbyStat",
+    "value": "amaranthDropRate",
+    "file": "game:blocktypes/plant/crop/amaranth.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-11/1/dropModbyStat",
+    "value": "cabbageDropRate",
+    "file": "game:blocktypes/plant/crop/cabbage.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-12/1/dropModbyStat",
+    "value": "cabbageDropRate",
+    "file": "game:blocktypes/plant/crop/cabbage.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-6/1/dropModbyStat",
+    "value": "carrotDropRate",
+    "file": "game:blocktypes/plant/crop/carrot.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-7/1/dropModbyStat",
+    "value": "carrotDropRate",
+    "file": "game:blocktypes/plant/crop/carrot.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-8/1/dropModbyStat",
+    "value": "cassavaDropRate",
+    "file": "game:blocktypes/plant/crop/cassava.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-9/1/dropModbyStat",
+    "value": "cassavaDropRate",
+    "file": "game:blocktypes/plant/crop/cassava.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-9/0/dropModbyStat",
+    "value": "flaxseedDropRate",
+    "file": "game:blocktypes/plant/crop/flax.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-9/1/dropModbyStat",
+    "value": "flaxgrainDropRate",
+    "file": "game:blocktypes/plant/crop/flax.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-9/2/dropModbyStat",
+    "value": "flaxfibreDropRate",
+    "file": "game:blocktypes/plant/crop/flax.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-6/1/dropModbyStat",
+    "value": "onionDropRate",
+    "file": "game:blocktypes/plant/crop/onion.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-7/1/dropModbyStat",
+    "value": "onionDropRate",
+    "file": "game:blocktypes/plant/crop/onion.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-7/1/dropModbyStat",
+    "value": "parsnipDropRate",
+    "file": "game:blocktypes/plant/crop/parsnip.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-8/1/dropModbyStat",
+    "value": "parsnipDropRate",
+    "file": "game:blocktypes/plant/crop/parsnip.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-8/1/dropModbyStat",
+    "value": "peanutDropRate",
+    "file": "game:blocktypes/plant/crop/peanut.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-9/1/dropModbyStat",
+    "value": "peanutDropRate",
+    "file": "game:blocktypes/plant/crop/peanut.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-16/1/dropModbyStat",
+    "value": "pineappleDropRate",
+    "file": "game:blocktypes/plant/crop/pineapple.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-10/1/dropModbyStat",
+    "value": "riceDropRate",
+    "file": "game:blocktypes/plant/crop/rice.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-9/1/dropModbyStat",
+    "value": "ryeDropRate",
+    "file": "game:blocktypes/plant/crop/rye.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-10/1/dropModbyStat",
+    "value": "soybeanDropRate",
+    "file": "game:blocktypes/plant/crop/soybean.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-11/1/dropModbyStat",
+    "value": "soybeanDropRate",
+    "file": "game:blocktypes/plant/crop/soybean.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-9/1/dropModbyStat",
+    "value": "speltDropRate",
+    "file": "game:blocktypes/plant/crop/spelt.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-12/1/dropModbyStat",
+    "value": "sunflowerDropRate",
+    "file": "game:blocktypes/plant/crop/sunflower.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-4/1/dropModbyStat",
+    "value": "turnipDropRate",
+    "file": "game:blocktypes/plant/crop/turnip.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-5/1/dropModbyStat",
+    "value": "turnipDropRate",
+    "file": "game:blocktypes/plant/crop/turnip.json"
+  }
+]

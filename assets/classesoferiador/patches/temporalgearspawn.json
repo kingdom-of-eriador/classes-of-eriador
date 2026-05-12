@@ -1,0 +1,68 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/0/gear",
+    "value": [
+      {
+        "type": "item",
+        "code": "game:clothes-neck-gear-amulet-temporal"
+      }
+    ],
+    "file": "game:config/characterclasses.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/1/gear",
+    "value": [
+      {
+        "type": "item",
+        "code": "game:clothes-neck-gear-amulet-temporal"
+      }
+    ],
+    "file": "game:config/characterclasses.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/2/gear",
+    "value": [
+      {
+        "type": "item",
+        "code": "game:clothes-neck-gear-amulet-temporal"
+      }
+    ],
+    "file": "game:config/characterclasses.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/3/gear",
+    "value": [
+      {
+        "type": "item",
+        "code": "game:clothes-neck-gear-amulet-temporal"
+      }
+    ],
+    "file": "game:config/characterclasses.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/4/gear",
+    "value": [
+      {
+        "type": "item",
+        "code": "game:clothes-neck-gear-amulet-temporal"
+      }
+    ],
+    "file": "game:config/characterclasses.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/5/gear",
+    "value": [
+      {
+        "type": "item",
+        "code": "game:clothes-neck-gear-amulet-temporal"
+      }
+    ],
+    "file": "game:config/characterclasses.json"
+  }
+]

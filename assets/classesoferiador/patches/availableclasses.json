@@ -1,0 +1,213 @@
+[
+	{
+		"op": "replace",
+		"path": "/seraph/AvailableClasses",
+		"value": [
+			"commoner",
+			"tailor",
+			"fighter-knight",
+			"fighter-berserker",
+			"fighter-striker",
+			"fighter-looter",
+			"fighter-ranger",
+			"fighter-survivalist",
+			"oregatherer-miner",
+			"oregatherer-scrounger",
+			"groundskeeper-hunter",
+			"grovetender-lumberer",
+			"farmer-allotmentgardener",
+			"rancher",
+			"healer-priest"
+		],
+		"file": "playermodellib:config/default-model-config.json"
+	},
+	{
+		"dependsOn": [
+			{
+				"modid": "racialequality"
+			}
+		],
+		"op": "add",
+		"path": "/human/AvailableClasses",
+		"value": [
+			"commoner",
+			"tailor",
+			"fighter-knight",
+			"fighter-berserker",
+			"fighter-striker",
+			"fighter-looter",
+			"fighter-ranger",
+			"fighter-survivalist",
+			"oregatherer-miner",
+			"oregatherer-scrounger",
+			"groundskeeper-hunter",
+			"grovetender-lumberer",
+			"farmer-allotmentgardener",
+			"rancher",
+			"healer-priest"
+		],
+		"file": "racialequality:config/customplayermodels/human-char.json"
+	},
+	{
+		"dependsOn": [
+			{
+				"modid": "racialequality"
+			}
+		],
+		"op": "add",
+		"path": "/dwarf/AvailableClasses",
+		"value": [
+			"commoner",
+			"tailor",
+			"fighter-knight",
+			"fighter-berserker",
+			"fighter-striker",
+			"fighter-looter",
+			"fighter-ranger",
+			"fighter-survivalist",
+			"oregatherer-miner",
+			"oregatherer-scrounger",
+			"groundskeeper-hunter",
+			"grovetender-lumberer",
+			"farmer-brewerygardener",
+			"rancher",
+			"healer-priest"
+		],
+		"file": "racialequality:config/customplayermodels/dwarf-char.json"
+	},
+	{
+		"dependsOn": [
+			{
+				"modid": "racialequality"
+			}
+		],
+		"op": "add",
+		"path": "/elf/AvailableClasses",
+		"value": [
+			"commoner",
+			"tailor",
+			"fighter-knight",
+			"fighter-berserker",
+			"fighter-striker",
+			"fighter-looter",
+			"fighter-ranger",
+			"fighter-survivalist",
+			"oregatherer-miner",
+			"oregatherer-scrounger",
+			"groundskeeper-gatherer",
+			"grovetender-orchardkeeper",
+			"farmer-allotmentgardener",
+			"rancher",
+			"healer-druid"
+		],
+		"file": "racialequality:config/customplayermodels/elf-char.json"
+	},
+	{
+		"dependsOn": [
+			{
+				"modid": "racialequality"
+			}
+		],
+		"op": "add",
+		"path": "/goblin/AvailableClasses",
+		"value": [
+			"commoner",
+			"tailor",
+			"fighter-knight",
+			"fighter-berserker",
+			"fighter-striker",
+			"fighter-looter",
+			"fighter-ranger",
+			"fighter-survivalist",
+			"oregatherer-miner",
+			"oregatherer-scrounger",
+			"groundskeeper-gatherer",
+			"grovetender-lumberer",
+			"farmer-brewerygardener",
+			"rancher",
+			"healer-shaman"
+		],
+		"file": "racialequality:config/customplayermodels/goblin-char.json"
+	},
+	{
+		"dependsOn": [
+			{
+				"modid": "racialequality"
+			}
+		],
+		"op": "add",
+		"path": "/ork/AvailableClasses",
+		"value": [
+			"commoner",
+			"tailor",
+			"fighter-knight",
+			"fighter-berserker",
+			"fighter-striker",
+			"fighter-looter",
+			"fighter-ranger",
+			"fighter-survivalist",
+			"oregatherer-miner",
+			"oregatherer-scrounger",
+			"groundskeeper-hunter",
+			"grovetender-lumberer",
+			"farmer-brewerygardener",
+			"rancher",
+			"healer-shaman"
+		],
+		"file": "racialequality:config/customplayermodels/ork-char.json"
+	},
+	{
+		"dependsOn": [
+			{
+				"modid": "koboldrdx"
+			}
+		],
+		"op": "addmerge",
+		"path": "/kobold/AvailableClasses",
+		"value": [
+			"commoner",
+			"tailor",
+			"fighter-knight",
+			"fighter-berserker",
+			"fighter-striker",
+			"fighter-looter",
+			"fighter-ranger",
+			"fighter-survivalist",
+			"oregatherer-miner",
+			"oregatherer-scrounger",
+			"groundskeeper-gatherer",
+			"grovetender-orchardkeeper",
+			"farmer-allotmentgardener",
+			"rancher",
+			"healer-druid"
+		],
+		"file": "koboldrdx:config/customplayermodels/kobold.json"
+	},
+	{
+		"dependsOn": [
+			{
+				"modid": "skeletonsoferiador"
+			}
+		],
+		"op": "replace",
+		"path": "/skeleton/AvailableClasses",
+		"value": [
+			"commoner",
+			"tailor",
+			"fighter-knight",
+			"fighter-berserker",
+			"fighter-striker",
+			"fighter-looter",
+			"fighter-ranger",
+			"fighter-survivalist",
+			"oregatherer-miner",
+			"oregatherer-scrounger",
+			"groundskeeper-hunter",
+			"grovetender-lumberer",
+			"farmer-allotmentgardener",
+			"rancher",
+			"healer-priest"
+		],
+		"file": "skeletons:config/customplayermodels/skeleton.json"
+	}
+]

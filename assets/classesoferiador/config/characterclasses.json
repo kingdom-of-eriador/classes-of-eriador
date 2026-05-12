@@ -1,0 +1,759 @@
+[
+	{
+		"code": "fighter-knight",
+		"traits": [
+			"armyofone",
+			"hardy",
+			"torchbearer",
+			"strongarm",
+			"merciless",
+			"civil",
+			"nearsighted",
+			"ravenous"
+		],
+		"gear": [
+			{
+				"type": "item",
+				"code": "game:clothes-shoulder-survivor"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-upperbody-blackguard-shirt"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-lowerbody-blackguard-leggings"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-foot-blackguard-shoes"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-hand-heavy-leather-gloves"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-waist-blackguard-belt"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-neck-gear-amulet-temporal"
+			}
+		]
+	},
+	{
+		"code": "fighter-berserker",
+		"traits": [
+			"brutalexecution",
+			"carnivorous",
+			"grazer",
+			"merciless",
+			"heedless",
+			"missionoriented",
+			"nearsighted",
+			"ravenous"
+		],
+		"gear": [
+			{
+				"type": "item",
+				"code": "game:clothes-upperbodyover-malefactor-tunic"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-lowerbody-raw-hide-trousers"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-foot-hunter-boots"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-nadiya-arm-armlet-teeth"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-nadiya-neck-necklace-teeth"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-hand-fur-gloves"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-neck-gear-amulet-temporal"
+			}
+		]
+	},
+	{
+		"code": "fighter-striker",
+		"traits": [
+			"grazer",
+			"masterofbattle",
+			"switchhitter",
+			"merciless",
+			"ravenous",
+			"mediumarmoruser",
+			"missionoriented"
+		],
+		"gear": [
+			{
+				"type": "item",
+				"code": "game:clothes-shoulder-miner"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-upperbody-commoner-shirt"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-lowerbody-tailor-trousers"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-foot-great-steppe-boots"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-hand-survivor"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-waist-marketeer"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-neck-gear-amulet-temporal"
+			}
+		]
+	},
+	{
+		"code": "fighter-looter",
+		"traits": [
+			"improviser",
+			"pilferer",
+			"sculduggerous",
+			"torchbearer",
+			"civil",
+			"mediumarmoruser",
+			"ravenous"
+		],
+		"gear": [
+			{
+				"type": "item",
+				"code": "game:clothes-face-malefactor-mask"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-foot-malefactor-boots"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-hand-malefactor-gloves"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-lowerbody-malefactor-trousers"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-neck-malefactor-pendant"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-shoulder-malefactor-cloak"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-upperbodyover-malefactor-tunic"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-waist-malefactor-sash"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-neck-gear-amulet-temporal"
+			}
+		]
+	},
+	{
+		"code": "fighter-ranger",
+		"traits": [
+			"bowyer",
+			"desperatestruggle",
+			"sniper",
+			"wingfoot",
+			"lightlyarmed",
+			"missionoriented",
+			"peckish"
+		],
+		"gear": [
+			{
+				"type": "item",
+				"code": "game:clothes-head-hunter-cape"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-upperbody-hunter-shirt"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-upperbodyover-hunter-coat"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-lowerbody-hunter-leggings"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-foot-hunter-boots"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-face-hunter-mask"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-hand-hunter-gloves"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-neck-gear-amulet-temporal"
+			}
+		]
+	},
+	{
+		"code": "fighter-survivalist",
+		"traits": [
+			"archer",
+			"bowyer",
+			"furtive",
+			"grazer",
+			"wingfoot",
+			"lightlyarmed",
+			"missionoriented"
+		],
+		"gear": [
+			{
+				"type": "item",
+				"code": "game:clothes-shoulder-survivor"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-upperbody-survivor"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-lowerbody-survivor"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-foot-survivor"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-face-survivor"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-hand-survivor"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-neck-gear-amulet-temporal"
+			}
+		]
+	},
+
+	{
+		"code": "oregatherer-miner",
+		"traits": [
+			"ingenuity",
+			"laborer",
+			"torchbearer",
+			"tunnelwisdom",
+			"workaholic",
+			"heavyhanded",
+			"nearsighted",
+			"squeamish"
+		],
+		"gear": [
+			{
+				"type": "item",
+				"code": "game:clothes-shoulder-miner"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-upperbodyover-miner"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-lowerbody-miner"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-foot-miner"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-hand-miner"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-waist-miner"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-neck-gear-amulet-temporal"
+			}
+		]
+	},
+	{
+		"code": "oregatherer-scrounger",
+		"traits": [
+			"claustrophobic",
+			"forager",
+			"furtive",
+			"lifeofcomfort",
+			"magpie",
+			"therighttool",
+			"workaholic",
+			"squeamish"
+		],
+		"gear": [
+			{
+				"type": "item",
+				"code": "game:clothes-nadiya-shoulder-alchemist"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-upperbody-linen-tunic"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-nadiya-lowerbody-guard"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-foot-clockmaker-shoes"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-face-glasses"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-waist-merchant-belt"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-neck-gear-amulet-temporal"
+			}
+		]
+	},
+
+	{
+		"code": "groundskeeper-hunter",
+		"traits": [
+			"anatomy",
+			"furtive",
+			"huntergatherer",
+			"omnivore",
+			"varmintpatrol",
+			"claustrophobic",
+			"wilder"
+		],
+		"gear": [
+			{
+				"type": "item",
+				"code": "game:clothes-head-hunter-cape"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-shoulder-hunter-poncho"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-upperbody-hunter-shirt"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-upperbodyover-hunter-coat"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-lowerbody-hunter-leggings"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-foot-hunter-boots"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-face-hunter-mask"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-hand-hunter-gloves"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-neck-gear-amulet-temporal"
+			}
+		]
+	},
+	{
+		"code": "groundskeeper-gatherer",
+		"traits": [
+			"experiencedgrazer",
+			"furtive",
+			"huntergatherer",
+			"selfdefence",
+			"claustrophobic",
+			"wilder"
+		],
+		"gear": [
+			{
+				"type": "item",
+				"code": "game:clothes-head-straw-hat"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-shoulder-woolen-scarf"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-nadiya-upperbody-beekeeper"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-lowerbody-dirty-linen-trousers"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-foot-shepherd-sandals"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-neck-gear-amulet-temporal"
+			}
+		]
+	},
+	{
+		"code": "grovetender-lumberer",
+		"traits": [
+			"expertaxe",
+			"treefriend",
+			"fieldsnacks",
+			"claustrophobic",
+			"slowminer",
+			"lumbermill"
+		],
+		"gear": [
+			{
+				"type": "item",
+				"code": "game:clothes-head-straw-hat"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-upperbody-hunters-green"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-nadiya-shoulder-peasant2"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-lowerbody-raw-hide-trousers"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-hand-commoner-gloves"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-waist-heavy-tool-belt"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-neck-gear-amulet-temporal"
+			}
+		]
+	},
+	{
+		"code": "grovetender-orchardkeeper",
+		"traits": [
+			"expertaxe",
+			"treefriend",
+			"fieldsnacks",
+			"claustrophobic",
+			"slowminer",
+			"bountifulorchards"
+		],
+		"gear": [
+			{
+				"type": "item",
+				"code": "game:clothes-head-straw-hat"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-upperbody-hunters-green"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-nadiya-shoulder-peasant2"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-lowerbody-raw-hide-trousers"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-hand-commoner-gloves"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-waist-heavy-tool-belt"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-neck-gear-amulet-temporal"
+			}
+		]
+	},
+	{
+		"code": "farmer-allotmentgardener",
+		"traits": [
+			"greenthumbs",
+			"varmintpatrol",
+			"kind",
+			"civil",
+			"allotmentgardener"
+		],
+		"gear": [
+			{
+				"type": "item",
+				"code": "game:clothes-head-straw-hat"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-upperbody-shepherd-tunic"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-lowerbody-shepherd-pants"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-waist-linen-rope"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-foot-commoner-boots"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-hand-commoner-gloves"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-neck-gear-amulet-temporal"
+			}
+		]
+	},
+	{
+		"code": "farmer-brewerygardener",
+		"traits": [
+			"greenthumbs",
+			"varmintpatrol",
+			"kind",
+			"civil",
+			"brewerygardener"
+		],
+		"gear": [
+			{
+				"type": "item",
+				"code": "game:clothes-head-straw-hat"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-upperbody-shepherd-tunic"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-lowerbody-shepherd-pants"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-waist-linen-rope"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-foot-commoner-boots"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-hand-commoner-gloves"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-neck-gear-amulet-temporal"
+			}
+		]
+	},
+	{
+		"code": "rancher",
+		"traits": [
+			"beastfriend",
+			"bigbritches",
+			"fencejumper",
+			"wildculling",
+			"claustrophobic",
+			"ineptforager"
+		],
+		"gear": [
+			{
+				"type": "item",
+				"code": "game:clothes-shoulder-stained-leather-poncho"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-upperbody-great-steppe-shirt"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-waist-heavy-belt"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-lowerbody-raw-hide-trousers"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-foot-great-steppe-boots"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-hand-malefactor-gloves"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-neck-gear-amulet-temporal"
+			}
+		]
+	},
+
+	
+	{
+		"code": "healer-druid",
+		"traits": [
+			"bittermedicine",
+			"camouflage",
+			"druidcrafting",
+			"furtive",
+			"healingtouch",
+			"selfdefence",
+			"wingfoot",
+			"claustrophobic",
+			"frail",
+			"nearsighted"
+		],
+		"gear": [
+			{
+				"type": "item",
+				"code": "game:clothes-head-noble-fillet"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-upperbodyover-spice-merchants-coat"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-lowerbody-dirty-linen-trousers"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-nadiya-waist-peasant1"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-neck-gear-amulet-temporal"
+			}
+		]
+	},
+	{
+		"code": "healer-priest",
+		"traits": [
+			"armyofone",
+			"bittermedicine",
+			"camouflage",
+			"healingtouch",
+			"priestcrafting",
+			"selfdefence",
+			"claustrophobic",
+			"nearsighted"
+		],
+		"gear": [
+			{
+				"type": "item",
+				"code": "game:clothes-upperbody-surgeon"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-lowerbody-merchant-pants"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-foot-shepherd-sandals"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-waist-linen-rope"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-neck-gear-amulet-temporal"
+			}
+		]
+	},
+	{
+		"code": "healer-shaman",
+		"traits": [
+			"bittermedicine",
+			"brutalexecution",
+			"camouflage",
+			"forager",
+			"healingtouch",
+			"shamancrafting",
+			"heavyhanded",
+			"nearsighted"
+		],
+		"gear": [
+			{
+				"type": "item",
+				"code": "game:clothes-shoulder-surgeon"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-upperbody-earth-toned-robe"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-lowerbody-raw-hide-trousers"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-nadiya-arm-armlet-teeth"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-waist-jambiya-belt"
+			},
+			{
+				"type": "item",
+				"code": "game:clothes-neck-gear-amulet-temporal"
+			}
+		]
+	}
+]

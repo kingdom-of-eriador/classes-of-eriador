@@ -1,0 +1,572 @@
+[
+	{
+		"code": "butcher",
+		"type": "positive",
+		"attributes": {
+			"animalHarvestingTime": -0.1
+		}
+	},
+	{
+		"code": "clearcutter",
+		"type": "positive",
+		"attributes": {
+			"axesProficiency": 0.1
+		}
+	},
+	{
+		"code": "durable",
+		"type": "positive",
+		"attributes": {
+			"maxhealthExtraPoints": 5
+		}
+	},
+	{
+		"code": "elvenpresence",
+		"type": "positive",
+		"attributes": {
+			"animalSeekingRange": -0.25
+		}
+	},
+	{
+		"code": "fleshless",
+		"type": "positive",
+		"attributes": {
+			"warmthBonus": 20,
+			"hungerrate": -0.1
+		}
+	},
+	{
+		"code": "foundercrops",
+		"type": "positive",
+		"attributes": {
+			"amaranthDropRate": 0.1,
+			"cabbageDropRate": 0.1,
+			"carrotDropRate": 0.1,
+			"cassavaDropRate": 0.1,
+			"onionDropRate": 0.1,
+			"parsnipDropRate": 0.1,
+			"peanutDropRate": 0.1,
+			"pineappleDropRate": 0.1,
+			"riceDropRate": 0.1,
+			"ryeDropRate": 0.1,
+			"soybeanDropRate": 0.1,
+			"speltDropRate": 0.1,
+			"sunflowerDropRate": 0.1,
+			"turnipDropRate": 0.1
+		}
+	},
+	{
+		"code": "funguy",
+		"type": "positive",
+		"attributes": {
+			"forageDropRate": 0.05,
+			"wildCropDropRate": 0.1
+		}
+	},
+	{
+		"code": "gravedigger",
+		"type": "positive",
+		"attributes": {
+			"miningSpeedMul": 0.1
+		}
+	},
+	{
+		"code": "mountainwisdom",
+		"type": "positive",
+		"attributes": {
+			"oreLootDropMul": 0.1
+		}
+	},
+	{
+		"code": "plantbaseddiet",
+		"type": "positive",
+		"attributes": {
+			"wildCropDropRate": 0.15
+		}
+	},
+	{
+		"code": "reptilian",
+		"type": "positive",
+		"attributes": {
+			"jumpHeightMul": 0.25,
+			"hungerrate": -0.1
+		}
+	},
+	{
+		"code": "tunnelrunner",
+		"type": "positive",
+		"attributes": {
+			"miningSpeedMul": 0.1
+		}
+	},
+
+
+	{
+		"code": "bittermedicine",
+		"type": "positive",
+		"attributes": {}
+	},
+	{
+		"code": "bonecrafting",
+		"type": "positive",
+		"attributes": {}
+	},
+	{
+		"code": "deathcrafting",
+		"type": "positive",
+		"attributes": {}
+	},
+	{
+		"code": "elvenfletching",
+		"type": "positive",
+		"attributes": {}
+	},
+	{
+		"code": "expansionist",
+		"type": "positive",
+		"attributes": {}
+	},
+	{
+		"code": "shrewdsmith",
+		"type": "positive",
+		"attributes": {}
+	},
+	{
+		"code": "ingenuity",
+		"type": "positive",
+		"attributes": {}
+	},
+	{
+		"code": "therighttool",
+		"type": "positive",
+		"attributes": {}
+	},
+	{
+		"code": "druidcrafting",
+		"type": "positive",
+		"attributes": {}
+	},
+	{
+		"code": "priestcrafting",
+		"type": "positive",
+		"attributes": {}
+	},
+	{
+		"code": "shamancrafting",
+		"type": "positive",
+		"attributes": {}
+	},
+	{
+		"code": "camouflage",
+		"type": "positive",
+		"attributes": {}
+	},
+
+
+	{
+		"code": "expertaxe",
+		"type": "positive",
+		"attributes": {
+			"axesProficiency": 0.2
+		}
+	},
+
+	
+	{
+		"code": "armyofone",
+		"type": "positive",
+		"attributes": {
+			"healingeffectivness": 0.1,
+			"armorDurabilityLoss": -0.1
+		}
+	},
+	{
+		"code": "expertsword",
+		"type": "positive",
+		"attributes": {
+			"oneHandedSwordsProficiency": 0.2
+		}
+	},
+	{
+		"code": "strongarm",
+		"type": "positive",
+		"attributes": {
+			"meleeWeaponsDamage": 0.3,
+			"armorWalkSpeedAffectedness": -0.5
+		}
+	},
+
+	{
+		"code": "brutalexecution",
+		"type": "positive",
+		"attributes": {
+			"halberdsProficiency": 0.2,
+			"spearsProficiency": 0.2,
+			"twoHandedSwordsProficiency": 0.2,
+			"quarterstaffProficiency": 0.2
+		}
+	},
+	{
+		"code": "carnivorous",
+		"type": "positive",
+		"attributes": {
+			"animalLootDropRate": 0.1
+		}
+	},
+	{
+		"code": "grazer",
+		"type": "positive",
+		"attributes": {
+			"forageDropRate": 0.15
+		}
+	},
+	{
+		"code": "heedless",
+		"type": "mixed",
+		"attributes": {
+			"meleeWeaponsDamage": 0.3,
+			"maxhealthExtraPoints": 8,
+			"armorWalkSpeedAffectedness": 1
+		}
+	},
+	{
+		"code": "missionoriented",
+		"type": "negative",
+		"attributes": {
+			"vesselContentsDropRate": -0.25
+		}
+	},
+	{
+		"code": "peckish",
+		"type": "negative",
+		"attributes": {
+			"hungerrate": 0.15
+		}
+	},
+
+	{
+		"code": "masterofbattle",
+		"type": "positive",
+		"attributes": {
+			"halberdsProficiency": 0.2,
+			"spearsProficiency": 0.2,
+			"twoHandedSwordsProficiency": 0.2,
+			"quarterstaffProficiency": 0.2,
+			"walkspeed": 0.05
+		}
+	},
+	{
+		"code": "switchhitter",
+		"type": "positive",
+		"attributes": {
+			"meleeWeaponsDamage": 0.15,
+			"rangedWeaponsDamage": 0.2
+		}
+	},
+	{
+		"code": "mediumarmoruser",
+		"type": "negative",
+		"attributes": {
+			"armorWalkSpeedAffectedness": 1
+		}
+	},
+
+	{
+		"code": "sculduggerous",
+		"type": "positive",
+		"attributes": {
+			"meleeWeaponsDamage": 0.2,
+			"rangedWeaponsDamage": 0.15
+		}
+	},
+	{
+		"code": "torchbearer",
+		"type": "positive",
+		"attributes": {
+			"axesProficiency": 0.2,
+			"clubsProficiency": 0.2,
+			"macesProficiency": 0.2,
+			"oneHandedSwordsProficiency": 0.2
+		}
+	},
+
+	{
+		"code": "archer",
+		"type": "positive",
+		"attributes": {
+			"rangedWeaponsDamage": 0.3
+		}
+	},
+	{
+		"code": "desperatestruggle",
+		"type": "positive",
+		"attributes": {
+			"axesProficiency": 0.1,
+			"clubsProficiency": 0.1,
+			"macesProficiency": 0.1,
+			"oneHandedSwordsProficiency": 0.1
+		}
+	},
+	{
+		"code": "lightlyarmed",
+		"type": "negative",
+		"attributes": {
+			"halberdsProficiency": -0.3,
+			"spearsProficiency": -0.3,
+			"twoHandedSwordsProficiency": -0.3,
+			"quarterstaffProficiency": -0.3
+		}
+	},
+	{
+		"code": "sniper",
+		"type": "positive",
+		"attributes": {
+			"rangedWeaponsDamage": 0.4
+		}
+	},
+	{
+		"code": "wingfoot",
+		"type": "mixed",
+		"attributes": {
+			"walkspeed": 0.1,
+			"jumpHeightMul": 0.5,
+			"armorWalkSpeedAffectedness": 2
+		}
+	},
+
+
+	{
+		"code": "laborer",
+		"type": "positive",
+		"attributes": {
+			"miningSpeedMul": 0.3,
+			"oreLootDropMul": 0.15
+		}
+	},
+	{
+		"code": "tunnelwisdom",
+		"type": "positive",
+		"attributes": {
+			"armorWalkSpeedAffectedness": -0.35
+		}
+	},
+	{
+		"code": "workaholic",
+		"type": "positive",
+		"attributes": {
+			"hungerrate": -0.2
+		}
+	},
+	{
+		"code": "magpie",
+		"type": "positive",
+		"attributes": {
+			"metalsPanningDropRate": 0.25,
+			"gemPanningDropRate": 0.25
+		}
+	},
+	{
+		"code": "lifeofcomfort",
+		"type": "negative",
+		"attributes": {
+			"armorWalkSpeedAffectedness": 2
+		}
+	},
+	{
+		"code": "squeamish",
+		"type": "negative",
+		"attributes": {
+			"meleeWeaponsDamage": -0.2,
+			"rangedWeaponsDamage": -0.2
+		}
+	},
+
+
+	{
+		"code": "anatomy",
+		"type": "positive",
+		"attributes": {
+			"spearsProficiency": 0.2
+		}
+	},
+	{
+		"code": "experiencedgrazer",
+		"type": "positive",
+		"attributes": {
+			"forageDropRate": 0.15,
+			"wildCropDropRate": 0.25
+		}
+	},
+	{
+		"code": "huntergatherer",
+		"type": "positive",
+		"attributes": {
+			"animalLootDropRate": 0.2,
+			"forageDropRate": 0.1,
+			"wildCropDropRate": 0.25,
+			"peanutDropRate": 0.1,
+			"sunflowerDropRate": 0.1
+		}
+	},
+	{
+		"code": "omnivore",
+		"type": "positive",
+		"attributes": {
+			"animalLootDropRate": 0.05,
+			"forageDropRate": 0.05,
+			"wildCropDropRate": 0.1
+		}
+	},
+	{
+		"code": "selfdefence",
+		"type": "positive",
+		"attributes": {
+			"quarterstaffProficiency": 0.2
+		}
+	},
+	{
+		"code": "wilder",
+		"type": "negative",
+		"attributes": {
+			"amaranthDropRate": -0.25,
+			"cabbageDropRate": -0.25,
+			"carrotDropRate": -0.25,
+			"cassavaDropRate": -0.25,
+			"flaxgrainDropRate": -0.25,
+			"flaxfibreDropRate": -0.25,
+			"onionDropRate": -0.25,
+			"parsnipDropRate": -0.25,
+			"pineappleDropRate": -0.25,
+			"riceDropRate": -0.25,
+			"ryeDropRate": -0.25,
+			"soybeanDropRate": -0.25,
+			"speltDropRate": -0.25,
+			"turnipDropRate": -0.25
+		}
+	},
+
+	{
+		"code": "treefriend",
+		"type": "positive",
+		"attributes": {
+			"cuttingDropRate": 0.2
+		}
+	},
+	{
+		"code": "fieldsnacks",
+		"type": "positive",
+		"attributes": {
+			"forageDropRate": 0.15
+		}
+	},
+	{
+		"code": "slowminer",
+		"type": "negative",
+		"attributes": {
+			"miningSpeedMul": -0.1
+		}
+	},
+	{
+		"code": "bountifulorchards",
+		"type": "positive",
+		"attributes": {
+			"fruittreeDropRate": 1
+		}
+	},
+	{
+		"code": "lumbermill",
+		"type": "positive",
+		"attributes": {
+			"treeseedDropRate": 2
+		}
+	},
+
+
+	{
+		"code": "greenthumbs",
+		"type": "positive",
+		"attributes": {
+			"amaranthDropRate": 0.2,
+			"cassavaDropRate": 0.2,
+			"peanutDropRate": 0.2,
+			"pineappleDropRate": 0.2,
+			"soybeanDropRate": 0.2,
+			"sunflowerDropRate": 0.2
+		}
+	},
+	{
+		"code": "varmintpatrol",
+		"type": "positive",
+		"attributes": {
+			"rangedWeaponsDamage": 0.15
+		}
+	},
+	{
+		"code": "allotmentgardener",
+		"type": "positive",
+		"attributes": {
+			"cabbageDropRate": 0.2,
+			"carrotDropRate": 0.2,
+			"onionDropRate": 0.2,
+			"parsnipDropRate": 0.2,
+			"turnipDropRate": 0.2
+		}
+	},
+	{
+		"code": "brewerygardener",
+		"type": "positive",
+		"attributes": {
+			"riceDropRate": 0.2,
+			"ryeDropRate": 0.2,
+			"speltDropRate": 0.2
+		}
+	},
+
+
+	{
+		"code": "beastfriend",
+		"type": "positive",
+		"attributes": {
+			"animalLootDropRate": 0.2,
+			"turnipDropRate": 0.2,
+			"parsnipDropRate": 0.2
+		}
+	},
+	{
+		"code": "bigbritches",
+		"type": "positive",
+		"attributes": {
+			"maxhealthExtraPoints": 3
+		}
+	},
+	{
+		"code": "fencejumper",
+		"type": "positive",
+		"attributes": {
+			"jumpHeightMul": 0.25
+		}
+	},
+	{
+		"code": "wildculling",
+		"type": "positive",
+		"attributes": {
+			"spearsProficiency": 0.15
+		}
+	},
+	{
+		"code": "ineptforager",
+		"type": "negative",
+		"attributes": {
+			"forageDropRate": -0.15,
+			"wildCropDropRate": -0.2
+		}
+	},
+
+	{
+		"code": "healingtouch",
+		"type": "positive",
+		"attributes": {
+			"healingeffectivness": 0.3
+		}
+	}
+]

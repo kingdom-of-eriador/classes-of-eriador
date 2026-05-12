@@ -1,0 +1,52 @@
+[
+  {
+    "op": "add",
+    "path": "/drops/0/dropModbyStat",
+    "value": "logDropRate",
+    "file": "game:blocktypes/wood/woodtyped/log.json"
+  },
+  {
+    "op": "add",
+    "path": "/dropsByType/*-branch/0/dropModbyStat",
+    "value": "cuttingDropRate",
+    "file": "game:blocktypes/plant/fruittreebranch.json"
+  },
+  {
+    "op": "add",
+    "path": "/drops/0/dropModbyStat",
+    "value": "saplingDropRate",
+    "file": "game:blocktypes/plant/leaves/branchy.json"
+  },
+  {
+    "op": "add",
+    "path": "/drops/0/quantityByType/dropModbyStat",
+    "value": "saplingDropRate",
+    "file": "game:blocktypes/plant/leaves/normal.json"
+  },
+  {
+    "op": "add",
+    "path": "/drops/0/dropModbyStat",
+    "value": "charcoalDropRate",
+    "file": "game:blocktypes/charcoalpile.json"
+  },
+  {
+    "op": "add",
+    "path": "/drops/0/quantity",
+    "value": {
+      "avg": 1
+    },
+    "file": "game:blocktypes/charcoalpile.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/dropsByType/*-branch/0/dropModbyStat",
+    "value": "fruittreeDropRate",
+    "file": "game:blocktypes/plant/fruittreebranch.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/drops/0/quantityByType/dropModbyStat",
+    "value": "treeseedDropRate",
+    "file": "game:blocktypes/plant/leaves/normal.json"
+  }
+]
