@@ -116,5 +116,44 @@
       "gravedigger"
     ],
     "file": "skeletons:config/customplayermodels/skeleton.json"
+  },
+  {
+    "dependsOn": [
+      {
+        "modid": "racialequalityexpanded"
+      }
+    ],
+    "op": "add",
+    "path": "/amphitari/ExtraTraits",
+    "value": [
+
+    ],
+    "file": "racialequalityexpanded:config/customplayermodels/amphitari-char.json"
+  },
+  {
+    "dependsOn": [
+      {
+        "modid": "racialequalityexpanded"
+      }
+    ],
+    "op": "add",
+    "path": "/gnome/ExtraTraits",
+    "value": [
+
+    ],
+    "file": "racialequalityexpanded:config/customplayermodels/gnome-char.json"
+  },
+  {
+    "dependsOn": [
+      {
+        "modid": "racialequalityexpanded"
+      }
+    ],
+    "op": "add",
+    "path": "/hobbit/ExtraTraits",
+    "value": [
+
+    ],
+    "file": "racialequalityexpanded:config/customplayermodels/hobbit-char.json"
   }
 ]
