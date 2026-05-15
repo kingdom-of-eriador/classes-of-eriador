@@ -1,0 +1,130 @@
+{
+  "code": "focuspriest",
+  "maxstacksize": 1,
+  "textures": {
+    "beeswax": {
+      "base": "game:item/resource/beeswax"
+    },
+    "measuringrope": {
+      "base": "game:item/resource/measuringrope"
+    },
+    "cinnabar": {
+      "base": "game:item/resource/nugget/cinnabar"
+    },
+    "malachite": {
+      "base": "game:item/resource/nugget/malachite"
+    },
+    "blackbronze": {
+      "base": "game:item/tool/material/blackbronze"
+    },
+    "gold": {
+      "base": "game:item/tool/material/gold"
+    },
+    "string": {
+      "base": "game:item/tool/material/string"
+    }
+  },
+  "shape": {
+    "base": "item/tool/focuspriest"
+  },
+  "creativeinventory": {
+    "general": [
+      "*"
+    ],
+    "items": [
+      "*"
+    ]
+  },
+  "behaviors": [
+    {
+      "name": "GroundStorable",
+      "properties": {
+        "layout": "SingleCenter",
+        "collisionBox": {
+          "x1": 0,
+          "y1": 0,
+          "z1": 0,
+          "x2": 1,
+          "y2": 0.125,
+          "z2": 1
+        }
+      }
+    }
+  ],
+  "attributes": {
+    "handbook": {
+      "include": true
+    },
+    "groundStorageTransform": {
+      "translation": {
+        "x": 0.325,
+        "y": -0.45,
+        "z": 0.675
+      },
+      "rotation": {
+        "x": -90,
+        "y": 0,
+        "z": 45
+      },
+      "origin": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    }
+  },
+  "guiTransform": {
+    "translation": {
+      "x": 0,
+      "y": 1,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 13,
+      "z": -45
+    },
+    "origin": {
+      "x": 0.35,
+      "y": 0.05,
+      "z": 0
+    },
+    "scale": 1.75
+  },
+  "tpHandTransform": {
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "origin": {
+      "x": 0.22,
+      "y": 0,
+      "z": 0.22
+    },
+    "scale": 0.75
+  },
+  "groundTransform": {
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 90,
+      "y": 0,
+      "z": 180
+    },
+    "origin": {
+      "x": 0,
+      "y": 0,
+      "z": 0.4
+    },
+    "scale": 3
+  }
+}

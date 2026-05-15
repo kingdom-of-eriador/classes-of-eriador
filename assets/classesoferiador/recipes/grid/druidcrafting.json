@@ -1,0 +1,41 @@
+[
+  {
+    "requiresTrait": "camouflage",
+    "ingredientPattern": "F,S",
+    "ingredients": {
+      "F": {
+        "type": "item",
+        "code": "focusdruid",
+        "isTool": true,
+        "toolDurabilityCost": 0
+      },
+      "S": {
+        "type": "item",
+        "code": "game:treeseed-*",
+        "allowedVariants": [
+          "crimsonkingmaple",
+          "birch",
+          "oak",
+          "maple",
+          "pine",
+          "acacia",
+          "kapok",
+          "baldcypress",
+          "larch",
+          "redwood",
+          "ebony",
+          "walnut",
+          "purpleheart"
+        ],
+        "name": "tree"
+      }
+    },
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "block",
+      "code": "game:leavesbranchy-placed-{tree}",
+      "quantity": 4
+    }
+  }
+]

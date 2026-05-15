@@ -1,0 +1,41 @@
+[
+  {
+    "ingredientPattern": "SSS,SBS,SSS",
+    "requiresTrait": "deathcrafting",
+    "ingredients": {
+      "S": {
+        "type": "item",
+        "code": "game:stone-*",
+        "name": "rock",
+        "allowedVariants": [
+          "andesite",
+          "bauxite",
+          "chalk",
+          "chert",
+          "conglomerate",
+          "limestone",
+          "claystone",
+          "granite",
+          "sandstone",
+          "shale",
+          "basalt",
+          "peridotite",
+          "phyllite",
+          "slate"
+        ]
+      },
+      "B": {
+        "type": "item",
+        "code": "game:bone",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "block",
+      "code": "game:cobbleskull-{rock}",
+      "quantity": 1
+    }
+  }
+]

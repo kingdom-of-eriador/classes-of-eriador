@@ -1,0 +1,74 @@
+[
+  {
+    "requiresTrait": "expansionist",
+    "recipeGroup": 1,
+    "ingredientPattern": "LL,SS",
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "game:stone-*",
+        "quantity": 2
+      },
+      "S": {
+        "type": "block",
+        "code": "game:soil-*"
+      }
+    },
+    "output": {
+      "type": "block",
+      "code": "game:stonepath-free",
+      "quantity": 2
+    },
+    "width": 2,
+    "height": 2
+  },
+  {
+    "requiresTrait": "expansionist",
+    "recipeGroup": 1,
+    "ingredientPattern": "LSL,_S_",
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "game:stone-*"
+      },
+      "S": {
+        "type": "block",
+        "code": "game:soil-*"
+      }
+    },
+    "output": {
+      "type": "block",
+      "code": "game:stonepathslab-free",
+      "quantity": 2
+    },
+    "width": 3,
+    "height": 2
+  },
+  {
+    "requiresTrait": "expansionist",
+    "recipeGroup": 1,
+    "ingredientPattern": "DL,S_,S_",
+    "ingredients": {
+      "D": {
+        "type": "item",
+        "code": "game:stone-*",
+        "quantity": 3
+      },
+      "L": {
+        "type": "item",
+        "code": "game:stone-*"
+      },
+      "S": {
+        "type": "block",
+        "code": "game:soil-*"
+      }
+    },
+    "output": {
+      "type": "block",
+      "code": "game:stonepathstairs-up-north-free",
+      "quantity": 2
+    },
+    "width": 2,
+    "height": 3
+  }
+]

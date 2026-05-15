@@ -57,6 +57,16 @@
   "game:characterclass-healer-shaman": "Healer: Shaman",
   "game:characterdesc-healer-shaman": "Love for their tribe guides their wisdom. Often seen as leaders of warbands and respected not for their strength of arm but their knowledge of the ways of peace as well as war. A battle fought with words is always won, a battle not needed is always lost.",
 
+
+  "game:trait-ingenuity": "<font color=\"#84ff84\">• Ingenuity </font>",
+  "game:traitname-ingenuity": "Ingenuity",
+  "game:traitdesc-ingenuity": "Exclusive craftable <a href=\"handbooksearch://belt lantern \">belt lantern</a>",
+
+  "game:trait-therighttool": "<font color=\"#84ff84\">• Improved Pan </font>",
+  "game:traitname-therighttool": "Improved Pan",
+  "game:traitdesc-therighttool": "Exclusive craftable <a href=\"handbooksearch://improved pan \">improved pan</a>",
+
+
   "game:trait-bittermedicine": "<font color=\"#84ff84\">• Bitter Medicine </font>",
   "game:traitname-bittermedicine": "Bitter Medicine",
   "game:traitdesc-bittermedicine": "Ability to craft <a href=\"handbooksearch://poultice \">poultices</a> cheaper with focuses",
@@ -468,4 +478,12 @@
 
   "game:charattribute-fruittreeDropRate-1": "Double cutting drops from fruit trees",
   "game:charattribute-treeseedDropRate-2": "Double seed drops from trees",
+
+  "block-improvedpan-*": "Improved Pan",
+  "item-minershelmet": "Miner's Helmet",
+  "item-minersbelt": "Miner's Belt Lantern",
+  "item-focusdruid": "Druid Focus",
+  "item-focuspriest": "Priest Focus",
+  "item-focusshaman": "Shaman Focus"
+
 }

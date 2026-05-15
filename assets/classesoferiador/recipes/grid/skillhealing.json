@@ -1,0 +1,422 @@
+[
+  {
+    "requiresTrait": "bittermedicine",
+    "ingredientPattern": "SBF,_L_",
+    "ingredients": {
+      "S": {
+        "type": "item",
+        "code": "game:powder-sulfur"
+      },
+      "B": {
+        "type": "block",
+        "code": "game:bowl-*-fired"
+      },
+      "F": {
+        "type": "item",
+        "code": "focusdruid",
+        "isTool": true,
+        "toolDurabilityCost": 0
+      },
+      "L": {
+        "type": "block",
+        "code": "game:linen-*"
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:honeyportion"
+        },
+        "requiresLitres": 0.25
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "game:poultice-linen-honey-sulfur",
+      "quantity": 6
+    }
+  },
+  {
+    "requiresTrait": "bittermedicine",
+    "ingredientPattern": "SBF,_L_",
+    "ingredients": {
+      "S": {
+        "type": "item",
+        "code": "game:powder-sulfur"
+      },
+      "B": {
+        "type": "block",
+        "code": "game:bowl-*-fired"
+      },
+      "F": {
+        "type": "item",
+        "code": "focuspriest",
+        "isTool": true,
+        "toolDurabilityCost": 0
+      },
+      "L": {
+        "type": "block",
+        "code": "game:linen-*"
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:honeyportion"
+        },
+        "requiresLitres": 0.25
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "game:poultice-linen-honey-sulfur",
+      "quantity": 6
+    }
+  },
+  {
+    "requiresTrait": "bittermedicine",
+    "ingredientPattern": "SBF,_L_",
+    "ingredients": {
+      "S": {
+        "type": "item",
+        "code": "game:powder-sulfur"
+      },
+      "B": {
+        "type": "block",
+        "code": "game:bowl-*-fired"
+      },
+      "F": {
+        "type": "item",
+        "code": "focusshaman",
+        "isTool": true,
+        "toolDurabilityCost": 0
+      },
+      "L": {
+        "type": "block",
+        "code": "game:linen-*"
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:honeyportion"
+        },
+        "requiresLitres": 0.25
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "game:poultice-linen-honey-sulfur",
+      "quantity": 6
+    }
+  },
+
+
+  {
+    "requiresTrait": "bittermedicine",
+    "ingredientPattern": "SBF,_C_",
+    "ingredients": {
+      "S": {
+        "type": "item",
+        "code": "game:powder-sulfur"
+      },
+      "B": {
+        "type": "block",
+        "code": "game:bowl-*-fired"
+      },
+      "F": {
+        "type": "item",
+        "code": "focusdruid",
+        "isTool": true,
+        "toolDurabilityCost": 0
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cattailtops",
+        "quantity": 2
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:honeyportion"
+        },
+        "requiresLitres": 0.25
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "game:poultice-reed-honey-sulfur",
+      "quantity": 6
+    }
+  },
+  {
+    "requiresTrait": "bittermedicine",
+    "ingredientPattern": "SBF,_C_",
+    "ingredients": {
+      "S": {
+        "type": "item",
+        "code": "game:powder-sulfur"
+      },
+      "B": {
+        "type": "block",
+        "code": "game:bowl-*-fired"
+      },
+      "F": {
+        "type": "item",
+        "code": "focuspriest",
+        "isTool": true,
+        "toolDurabilityCost": 0
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cattailtops",
+        "quantity": 2
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:honeyportion"
+        },
+        "requiresLitres": 0.25
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "game:poultice-reed-honey-sulfur",
+      "quantity": 6
+    }
+  },
+  {
+    "requiresTrait": "bittermedicine",
+    "ingredientPattern": "SBF,_C_",
+    "ingredients": {
+      "S": {
+        "type": "item",
+        "code": "game:powder-sulfur"
+      },
+      "B": {
+        "type": "block",
+        "code": "game:bowl-*-fired"
+      },
+      "F": {
+        "type": "item",
+        "code": "focusshaman",
+        "isTool": true,
+        "toolDurabilityCost": 0
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cattailtops",
+        "quantity": 2
+      }
+    },
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:honeyportion"
+        },
+        "requiresLitres": 0.25
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "game:poultice-reed-honey-sulfur",
+      "quantity": 6
+    }
+  },
+
+
+  {
+    "requiresTrait": "bittermedicine",
+    "ingredientPattern": "H,C,F",
+    "ingredients": {
+      "H": {
+        "type": "block",
+        "code": "game:flower-horsetail-free",
+        "quantity": 4
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cattailtops",
+        "quantity": 2
+      },
+      "F": {
+        "type": "item",
+        "code": "focusdruid",
+        "isTool": true,
+        "toolDurabilityCost": 0
+      }
+    },
+    "width": 1,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "game:poultice-reed-horsetail",
+      "quantity": 6
+    }
+  },
+  {
+    "requiresTrait": "bittermedicine",
+    "ingredientPattern": "H,C,F",
+    "ingredients": {
+      "H": {
+        "type": "block",
+        "code": "game:flower-horsetail-free",
+        "quantity": 4
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cattailtops",
+        "quantity": 2
+      },
+      "F": {
+        "type": "item",
+        "code": "focuspriest",
+        "isTool": true,
+        "toolDurabilityCost": 0
+      }
+    },
+    "width": 1,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "game:poultice-reed-horsetail",
+      "quantity": 6
+    }
+  },
+  {
+    "requiresTrait": "bittermedicine",
+    "ingredientPattern": "H,C,F",
+    "ingredients": {
+      "H": {
+        "type": "block",
+        "code": "game:flower-horsetail-free",
+        "quantity": 4
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cattailtops",
+        "quantity": 2
+      },
+      "F": {
+        "type": "item",
+        "code": "focusshaman",
+        "isTool": true,
+        "toolDurabilityCost": 0
+      }
+    },
+    "width": 1,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "game:poultice-reed-horsetail",
+      "quantity": 6
+    }
+  },
+
+
+  {
+    "requiresTrait": "bittermedicine",
+    "ingredientPattern": "H,L,F",
+    "ingredients": {
+      "H": {
+        "type": "block",
+        "code": "game:flower-horsetail-free",
+        "quantity": 4
+      },
+      "L": {
+        "type": "block",
+        "code": "game:linen-*"
+      },
+      "F": {
+        "type": "item",
+        "code": "focusdruid",
+        "isTool": true,
+        "toolDurabilityCost": 0
+      }
+    },
+    "width": 1,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "game:poultice-linen-horsetail",
+      "quantity": 6
+    }
+  },
+  {
+    "requiresTrait": "bittermedicine",
+    "ingredientPattern": "H,L,F",
+    "ingredients": {
+      "H": {
+        "type": "block",
+        "code": "game:flower-horsetail-free",
+        "quantity": 4
+      },
+      "L": {
+        "type": "block",
+        "code": "game:linen-*"
+      },
+      "F": {
+        "type": "item",
+        "code": "focuspriest",
+        "isTool": true,
+        "toolDurabilityCost": 0
+      }
+    },
+    "width": 1,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "game:poultice-linen-horsetail",
+      "quantity": 6
+    }
+  },
+  {
+    "requiresTrait": "bittermedicine",
+    "ingredientPattern": "H,L,F",
+    "ingredients": {
+      "H": {
+        "type": "block",
+        "code": "game:flower-horsetail-free",
+        "quantity": 4
+      },
+      "L": {
+        "type": "block",
+        "code": "game:linen-*"
+      },
+      "F": {
+        "type": "item",
+        "code": "focusshaman",
+        "isTool": true,
+        "toolDurabilityCost": 0
+      }
+    },
+    "width": 1,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "game:poultice-linen-horsetail",
+      "quantity": 6
+    }
+  }
+]
